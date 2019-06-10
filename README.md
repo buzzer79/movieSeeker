@@ -1,2 +1,0 @@
-# movieSeeker
-Created with CodeSandbox
